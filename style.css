@@ -1,0 +1,17 @@
+* {
+
+    margin: 0px ;
+    /* padding: 0px; */
+ 
+}
+
+.hastag-header {
+
+    background-color: #065FD4;
+    height: 200px;
+}
+
+h2{
+ color: white;
+ padding: 50px;
+}
